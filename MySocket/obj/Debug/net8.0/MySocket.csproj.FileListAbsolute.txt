@@ -1,0 +1,11 @@
+C:\Users\cotym\PP\MySocket\obj\Debug\net8.0\MySocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cotym\PP\MySocket\obj\Debug\net8.0\MySocket.AssemblyInfoInputs.cache
+C:\Users\cotym\PP\MySocket\obj\Debug\net8.0\MySocket.AssemblyInfo.cs
+C:\Users\cotym\PP\MySocket\obj\Debug\net8.0\MySocket.csproj.CoreCompileInputs.cache
+C:\Users\cotym\PP\MySocket\bin\Debug\net8.0\MySocket.deps.json
+C:\Users\cotym\PP\MySocket\bin\Debug\net8.0\MySocket.dll
+C:\Users\cotym\PP\MySocket\bin\Debug\net8.0\MySocket.pdb
+C:\Users\cotym\PP\MySocket\obj\Debug\net8.0\MySocket.dll
+C:\Users\cotym\PP\MySocket\obj\Debug\net8.0\refint\MySocket.dll
+C:\Users\cotym\PP\MySocket\obj\Debug\net8.0\MySocket.pdb
+C:\Users\cotym\PP\MySocket\obj\Debug\net8.0\ref\MySocket.dll
